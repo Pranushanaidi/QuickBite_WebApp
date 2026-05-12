@@ -1,5 +1,4 @@
-# QuickBite_WebApp
-# 🍛 FeastFlow — Food Ordering Web Application
+# QuickBite_WebApp — Food Ordering Web Application
 ### Django + MySQL | Full-Stack Mini Project
 
 ---
